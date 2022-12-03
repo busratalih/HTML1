@@ -1,0 +1,14 @@
+a:link{
+    color: aqua;
+    text-decoration: none;
+    
+}
+a:visited{
+    color:rgb(173, 55, 173);
+}
+a:hover{
+    color:green
+}
+p:hover{
+    color:red;
+}
